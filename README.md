@@ -1,9 +1,5 @@
 # gRPC NodeJS
 
-![Udemy](.github/badges/udemy.svg)
-
-## COUPON: `START_AUG`
-
 ## Build
 
 ### Arm
